@@ -1,0 +1,3 @@
+interface HiProps {
+  msg: string;
+}
